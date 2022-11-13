@@ -1,0 +1,3 @@
+gh ssh-key add KEY-FILE
+gh ssh-key add KEY-FILE -- title "Rebels"
+gh ssh-key add ~/.ssh/id_ed25519.pub
